@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-__import__ ("printing_easy")
+__import__ ("#pythoniscool")
